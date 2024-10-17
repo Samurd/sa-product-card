@@ -1,0 +1,19 @@
+.bg-dark {
+    background-color: rgb(57, 57, 57);
+}
+
+.text-white {
+    color: white;
+}
+
+.custom-btns button, .custom-btns div {
+    color: white;
+    border-color: white;
+}
+
+.shopping-cart {
+    position: fixed;
+    top: 0px;
+    right: 10px;
+    
+}
